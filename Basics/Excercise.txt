@@ -1,0 +1,6 @@
+1. A terminal is powerful tool on our computer that's used to run powerful commands without the use
+Of a graphical user interface
+
+2.The difference is that git is a local service you can use to send and receive stuff, while GitHub is an online service where files and repos can be displayed
+
+3.Because when we do projects where its more than one person working on the same thing, we don't want  to get overload with multiple copies of the same ting being sent to us, so GitHub is a good way to keep track of all the code changes being made through the git push and commit commands.
